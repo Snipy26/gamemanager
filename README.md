@@ -1,2 +1,2 @@
 # gamemanager
-Idea &amp; created by Snipy26
+Idea & created by Snipy26
